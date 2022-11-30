@@ -1,142 +1,142 @@
 memeNgin:
-  about: MemeNgin is a node-based image engine developed for meme creators.
-  detail: In MemeNgin, you can design an image meme machine that fits your needs by building logic circuits such as shape, color, text, and compositing, not just adding text to images. The machine designed in this way becomes a template that allows you to create new meme with minimal efforts. The iterative process of image modification can also be programmed with logic nodes and used for productive purposes.
+  about: MemeNgin основанный на узлах движок для изображений, разработанный для создателей мемов.
+  detail: В MemeNgin, вы можете сконструировать машину для создания мемов, соответствующую вашим потребностям, построив логические схемы, такие как форма, цвет, текст и композитинг, а не просто добавляя текст к изображениям. Созданная таким образом машина становится шаблоном, который позволяет создавать новые мемы с минимальными усилиями. Итеративный процесс изменения изображений также можно запрограммировать с помощью логических узлов и использовать в продуктивных целях.
   
-  full_version_title: If you purchase MemeNgin,
+  full_version_title: Если ты купил MemeNgin,
   full_version:
-    - You can actively participate in the memengin community based on steamworks.
-    - You can use the Steam Workshop to share your work with others and get inspirations from others' work. (working on progress)
-    - You can help me to completing the this project.
+    - Вы можете активно участвовать в сообществе MemeNgin на основе steamworks.
+    - Вы можете использовать мастерскую Steam что-бы делиться работами с остальными и черпать вдохновение у других (Работа в прогрессии )
+    - Вы можете помочь мне завершить этот проект.
 
   links:
-    discord: Discord server
-    roadmap: Trello page
+    discord: Дискорд сервер
+    roadmap: Страница Trello
     subreddit: Sub-reddit
     source_code: Github
-    translate: I need help translating into your language, including English. You can check the details on the GitHub page.
+    translate: Мне нужна помощь в переводе на ваши языки, включая Английский. Вы можете посмотреть детали на странице GitHub.
 
-  text_open_source: MemeNgin is an open source project. We try to determine the direction of the project by considering the opinions of the community as much as possible. MemeNgin's roadmap can be found on the Trello page.
+  text_open_source: MemeNgin это проект с открытым исходным кодом. Мы стараемся определять направление проекта, максимально учитывая мнение сообщества. План проекта MemeNgin может быть найден на странице Trello .
 
 ui_general:
-  okay: Okay
-  agree: Agree
-  disagree: Disagree
-  cancel: Cancel
-  close: Close
-  save: Save
-  do_not_save: Don't Save
-  update: Update
-  publish: Publish
-  steam_must_run: The steam client must be running!!!
-  create: Create
-  subscribe: Subscribe
-  unsubscribe: Subscribed
-  success: Success
-  fail: Fail
-  language: Language
+  okay: Ок
+  agree: Согласен
+  disagree: Не согласен
+  cancel: Отмена
+  close: Закрыть
+  save: Сохранить
+  do_not_save: Не сохранять
+  update: Обновить
+  publish: Опубликовать
+  steam_must_run: Клиент steam должен быть запущен!!!
+  create: Создать
+  subscribe: Подписаться
+  unsubscribe: Подписан
+  success: Успех
+  fail: Провал
+  language: Язык
 
-experimental:  Experimental nodes are currently incomplete, but show nodes that can be adopted in the future. Please note that they may be improved, modified or even deleted in the future.
+experimental:  Экспериментальные узлы в настоящее время являются незавершенными, но показывают узлы, которые могут быть приняты в будущем. Обратите внимание, что в будущем они могут быть улучшены, изменены или даже удалены.
 
 close_dialog:
   title: MemeNgin
-  message: Do you want to save changes?
+  message: Ты хочешь сохранить сохранить изменения?
 
 language_dialog:
-  save_before: Please save your work before you proceed.
-  help_translate: Languages or menus that have not been translated will be displayed in English. help me translate to your language, including english!
-  go_help: Go to help with translation.
+  save_before: Пожалуйста, сохрание вашу работу до того как вы начнёте.
+  help_translate: Языки или меню которое не было переведено будет отоброжаться на Английском. Помогите мне перевести на ваш язык, включая английский!
+  go_help: перейти для помощи с переводом.
 
 publish_dialog:
-  title: Publish your work on steam workshop
-  title_item: Title
-  description: Description
-  age_rating: Age rating
-  tags: Tags
-  derivative: Allow others to make derivative work from this publication
-  agree_terms: I agree terms and conditions*
-  thumbnail: Thumbnail
-  find_on_steam: Find it on steam
+  title: Опубликовать вашу работу в мастерскую steam
+  title_item: Заголовок
+  description: Описание
+  age_rating: Возрастная категория
+  tags: Тэги
+  derivative: Разрешить другим создавать производные работы на основе этой публикации
+  agree_terms: Я согласен с правилами и условиями*
+  thumbnail: Иллюстрация
+  find_on_steam: Найти это в steam
   required: '* indicates required field'
-  success: Project has successfully published. It may take some time for it to be applied to Steam.
-  fail: Failed to release the project. Please try again later. If the error recurs, please contact the developer.
+  success: Проект успешно опубликован. Может потребоваться некоторое время, чтобы он был опубликован в Steam.
+  fail: Не удалось опубликовать проект. Пожалуйста, повторите попытку позже. Если ошибка повторяется, пожалуйста, свяжитесь с разработчиком.
 
 age_dialog:
-  title: About age rating
-  message: Many younger users primarily use memes, so we need to be extra careful when releasing sexual or violent content. Use the table below to determine which age class your meme belongs to. When in doubt, it is recommended to select a higher age level. Content rated lower than the actual rating may be excluded from workshop.
-  everyone: Everyone (0-12)
+  title: О возрастной категории
+  message: Многие молодые пользователи в основном используют мемы, поэтому нам нужно быть особенно осторожными при выпуске материалов сексуального или жестокого содержания. Используйте приведенную ниже таблицу, чтобы определить, в какой возрастной категории находится ваш мем. В случае сомнений рекомендуется выбрать более высокую возрастную категорию. Контент, оцененный ниже фактического рейтинга, может быть исключен из мастерской.
+  everyone: Все (0-12)
   everyone_desc: > 
-    No sexual expresion, No violence
-  questionable: Questionable (13-17)
-  questionable_desc: "It could be an Everyone grade, but if you have some doubts."
-  mature: Mature (18-)
-  mature_desc: "Mild-nudity, Mild-violence"
-  ban: Ban
-  ban_desc: "Photo-Realistic nudity, Sexual acts, Gore"
+    Без сексуальной экспозиции, без насилия
+  questionable: Вопросный (13-17)
+  questionable_desc: "Это может быть оценка "Все", но если у вас есть сомнения."
+  mature: Зрелые (18-)
+  mature_desc: "Легкая нагота, легкое насилие"
+  ban: Бан
+  ban_desc: "Фотореалистичная нагота, Сексуальные акты, Расчленёнка"
 
 legal_dialog:
-  title: Terms of agreement
+  title: Условия соглашения
   steam_tos:
-    title: Steam terms of service rules
-    must_not: "Your submission must not violate:"
-    subscriber_agreement: Steam Subscriber Agreement
-    online_conduct: Steam Online Conduct
-    rules: Rules and Guidelines For Steam Discussions, Reviews, and User Generated Content
-    artwork: Steam Workshop Artwork guidelines
+    title: Правила пользования сервисом Steam
+    must_not: "Ваша публикация не должна нарушать:"
+    subscriber_agreement: Соглашение с подписчиками Steam
+    online_conduct: Поведение в сети Steam
+    rules: Правила и рекомендации для обсуждений, обзоров и пользовательского контента в Steam
+    artwork: Руководство по художественному оформлению в мастерской Steam
   mmng_tos:
-    title: MEMENGIN Terms of Service and UGC guidelines
-    must_not: "Your submission must not contain:"
-    harmful: · harmful links or message. Even if it is embedded in the QR code.
-    offensive: · offensive content. (e.g. racism, gore)
-    pornographic: · pornographic content. (e.g. pornographic sprays/decals, nudity)
-    must_owner: You must be the owner of uploaded submission.
-    stolen: · Stolen artwork (even edited) is not allowed.
-  agree_legal: "You have to agree Steam workshop legal agreement to proceed. (click here)"
+    title: Условия предоставления услуг MEMENGIN и руководство по пользовательскому контенту
+    must_not: "Ваша публикация не должна содержать:"
+    harmful: · вредоносные ссылки или сообщения. Даже если оно встроено в QR-код.
+    offensive: · оскорбительное содержание. (например, расизм, жестокость).
+    pornographic: · порнографическое содержание. (например, порнографические рисунки/наклейки, обнаженная натура)
+    must_owner: Вы должны быть владельцем загруженного материала.
+    stolen: · Украденные работы (даже отредактированные) не допускаются.
+  agree_legal: "Вы должны согласиться с юридическим соглашением мастерской Steam чтобы продолжить. (нажмите сюда)"
 
 new_document_dialog:
-  title: Create new memes
-  message: Please name your project
+  title: Создать новые мемы
+  message: Пожалуйста, назовите ваш проект.
 
 introductions:
-  intro: Hello! Thank you for using MemeNgin. MemeNgin is a node-based image engine that can customize every step of modifying an image, making it effective for creating memes or design templates.
-  nodes: Your project consists of Input nodes and an Output node, with nodes and connections representing the correlations between them, Where nodes are basic elements that perform fixed operations such as image modification, values, and logic.
-  inputs: Inputs is a place to collect values ​​that have an important impact on your project, and you can include text, integers, real numbers, colors, and more.
-  output: The Output node is the final result of the project, and you can save the result as an image by clicking Save as Image in the upper right corner of the screen.
-  workshop: In MemeNgin, you can share your meme through Steam workshop. Projects shared here can help others print memes with custom text or colors, or get ideas for new memes.
-  startup_menu: Click the Start menu in the upper left corner to access Tutorials, Your Work, and the Steam Workshop search function. *MemeNgin is currently under development, so please understand that bugs may occur in unexpected situations.
-  dont_show_again: Don't show this dialog on startup.
+  intro: Здравствуйте! Благодарим вас за использование MemeNgin. MemeNgin - это основанный на узлах движок изображений, в котором можно настроить каждый шаг для изменения изображения, что делает его эффективным для создания мемов или шаблонов дизайна.
+  nodes: Ваш проект состоит из узлов Input и узла Output, причем узлы и соединения представляют собой взаимосвязи между ними, где узлы - это базовые элементы, выполняющие фиксированные операции, такие как изменение изображения, значений и логики.
+  inputs: Inputs - это место для сбора значений, ​​которые оказывают важное влияние на ваш проект. Вы можете использовать текст, целые числа, вещественные числа, цвета и многое другое.
+  output: Узел Output - это конечный результат проекта, и вы можете сохранить результат в виде изображения, нажав кнопку Сохранить как изображение в правом верхнем углу экрана.
+  workshop: В MemeNgin вы можете поделиться своим мемом через мастерскую Steam. Проекты, которыми здесь делятся, могут помочь другим напечатать мемы с пользовательским текстом или цветами или получить идеи для новых мемов.
+  startup_menu: Нажмите на меню в левом верхнем углу, чтобы получить доступ к учебникам, вашей работе и функции поиска в мастерской Steam. *MemeNgin находится в стадии разработки, поэтому, пожалуйста, поймите, что в неожиданных ситуациях могут возникать ошибки.
+  dont_show_again: Не показывать это диалоговое окно при запуске.
 
 tutorials:
-  intro: Nice to meet you all! Thank you for using MemeNgin. In this tutorial, you will explore the basic features of MemeNgin.
-  startup_menu: Startup menu is activated by pressing the menu button at the top left of the screen. Here you will find a menu where you can navigate through recent work and tutorials in the program and other people's work shared in the Steam Workshop.
-  app_bar: From this menu at the top of the screen, you can open, save, and Undo & Redo common engine features.
-  node_library: The node library menu is on the left side of the screen contains the main functions of MemeNgin.
-  node_shorcut: If you press the space bar button while focused on the editor, you can bring up a shortcut menu with the same function as the node library.
-  editor: In the editor, you can organize your work on a node-based workflow. It consists of inputs, outputs, and the nodes you will be working on.
-  inputs: Input nodes are bundles that can contain variable nodes and image nodes, and you can select and group elements that bring significant changes to your work. When sharing these nodes in the future, it is designed so that you can customize your work by simply modifying these values in preview mode without opening the editor.
-  output: The output node is a node that displays the results of the project. It is larger than other nodes, so it can be easily recognized. When saving a project (*.mmng), the result image of this node is saved as a thumbnail. When you share your work to steam workshop in the future, the input value of this node must be connected.
-  preview: The preview menu is at upper side of the right side of the screen to preview the image of the output node. You can immediately see how changes that occur during node operations are reflected in the final result. You can save your work as image, zoom to fit image size.
-  properties: Property is a menu at the bottom right of the screen, and it is a menu where you can change the property value of each node. For most properties, you can decide whether to expose or not by turning the check box to the left of the property value On/Off.
+  intro: Приятно познакомиться со всеми вами! Спасибо, что пользуетесь MemeNgin. В этом руководстве вы изучите основные возможности MemeNgin.
+  startup_menu: Стартовое меню активируется нажатием кнопки меню в верхней левой части экрана. Здесь вы найдете меню, в котором можно перемещаться по недавним работам и учебникам программы, а также по чужим работам, выложенным в Мастерской Steam.
+  app_bar: Из этого меню в верхней части экрана можно открывать, сохранять, а также отменять и восстанавливать общие функции движка.
+  node_library: Меню библиотеки узлов находится в левой части экрана и содержит основные функции MemeNgin.
+  node_shorcut: Если в редакторе нажать клавишу пробела, можно вызвать контекстное меню с той же функцией, что и библиотека узлов.
+  editor: В редакторе вы можете организовать свою работу на основе узлов. Он состоит из Inputs, Outputs и узлов, над которыми вы будете работать.
+  inputs: Входные узлы - это связки, которые могут содержать разные узлы и узлы изображений, так же вы можете выбирать и группировать элементы, которые вносят существенные изменения в вашу работу. При совместном использовании этих узлов в будущем, они разработаны таким образом, что вы можете настроить свою работу, просто изменяя эти значения в режиме предварительного просмотра, не открывая редактор.
+  output: Output узел - это узел, в котором отображаются результаты проекта. Он крупнее других узлов, поэтому его легко распознать. При сохранении проекта (*.mmng) изображение результата этого узла сохраняется в виде иллюстрации. Когда вы в будущем будете передавать свою работу в steam workshop, значение Input этого узла должен быть подключен.
+  preview: Меню предварительного просмотра находится в верхней части правой стороны экрана для предварительного просмотра изображения выходного узла. Вы можете сразу увидеть, как изменения, происходящие во время работы с узлом, отражаются в конечном результате. Вы можете сохранить свою работу в виде изображения, масштабировать его, чтобы подогнать под размер изображения.
+  properties: Свойство - это меню в правом нижнем углу экрана, в котором вы можете изменить значение свойства каждого узла. Для большинства свойств вы можете решить, показывать их или нет, установив флажок слева от значения свойства Вкл/Выкл.
   library:
-    shape: The shape node is a set of nodes that are transforming the shape of the image. It receives one input image and outputs it as a transformed image. This includes image transform (and crop), canvas resize, etc.
-    color: The color node is a set of nodes that are changing the color of the image according to rules. There are common color change options such as Brightness Contrast, Hue Shift, and LUT.
-    composite: The composition node takes one foreground node and a background node as input values and performs composition. The blend node allows you to choose from a variety of image compositing rules. When selecting most composite nodes, the corresponding transform widget is activated. Foreground images can be placed using the widget.
-    create: Create node can create various nodes such as image, text, checkered pattern, etc. The nodes here can be used as input values for the shape and color nodes mentioned earlier. Nodes that can be used for productive purposes, such as the QR Code node, will also be added in the future.
-    logic: A logical node is a set of nodes that are used as input values of other nodes like variable nodes, or nodes that solve logical problems such as detection and stylization, and nodes that help logically design tasks such as input, output, and copy. and nodes that can logically program the work, such as Arithmetic operation, Control operation, etc., will be added in the future. Please note that some nodes here are incomplete as an experimental stage.
+    shape: Узел формы - это набор узлов, которые преобразуют форму изображения. Он получает одно входное изображение и выводит его в виде преобразованного изображения. Сюда входят преобразование изображения (и кадрирование), изменение размера холста и т.д.
+    color: Узел цвета - это набор узлов, которые изменяют цвет изображения в соответствии с правилами. Существуют такие распространенные варианты изменения цвета, как яркость-контраст, сдвиг оттенка и LUT.
+    composite: Узел композиции принимает один узел переднего плана и узел фона в качестве входных значений и выполняет композицию. Узел смешивания позволяет выбирать из множества правил композиции изображений. При выборе большинства композиционных узлов активируется соответствующий виджет преобразования. С помощью виджета можно разместить изображения переднего плана.
+    create: Узел создания может создавать различные узлы, такие как изображение, текст, клетчатый узор и т.д. Узлы, созданные здесь, могут использоваться в качестве Input значений для узлов формы и цвета, упомянутых ранее. Узлы, которые могут быть использованы в производственных целях, такие как узел QR-кода, также будут добавлены в будущем.
+    logic: Логический узел - это набор узлов, которые используются в качестве Input значений других узлов, таких как узлы переменных, или узлы, которые решают логические задачи, такие как обнаружение и стилизация, и узлы, которые помогают логически оформлять задачи, такие как input, output и copy. а также узлы, которые могут логически программировать работу, такие как Арифметические операции, Операции управления и т.д., будут добавлены в будущем. Пожалуйста, обратите внимание, что некоторые узлы здесь неполные и являются экспериментальной стадией.
   property:
-    node: A property node is a node that contains values such as strings, integers, decimals, vectors, and colors, and allows you to modify this value outside the node by connecting it to the exposed property value of another node.
-    expose: Most properties can be exposed by clicking the check box to the left of the property value, and the exposed properties appear as a socket on the left side of the node, and the result value of the property node can be connected.
-    propagate: Property nodes can be connected continuously in a chain, and values are transferred from the left node to the right node.
+    node: Узел свойств - это узел, который содержит значения, такие как строки, целые числа, десятичные числа, векторы и цвета, и позволяет изменять это значение за пределами узла, соединяя его с открытым значением свойства другого узла.
+    expose: Большинство свойств можно раскрыть, нажав на флажок слева от значения свойства, при этом раскрытые свойства появляются в виде гнезда в левой части узла, а значение результата узла свойства можно подключить.
+    propagate: Узлы свойств могут быть непрерывно соединены в цепочку, и значения передаются от левого узла к правому.
   image:
-    rule_one: When creating an image, it will remain the original image or the image size of the input node unless there are special conditions. When creating a new image node (Create), the image size is fixed at 1024 x 1024.
-    rule_two: There are options to change the image size are Resize and Transform2D nodes. The size of the image changed by this node will remain the same for subsequent nodes.
-    rule_three: In the case of a composite node that takes two or more images as input values, the size of the background image is changed to the size of the new node.
+    rule_one: При создании изображения сохраняется исходное изображение или размер изображения Input узла, если нет особых условий. При создании нового узла изображения (Create) размер изображения фиксируется на 1024 x 1024.
+    rule_two: Для изменения размера изображения существуют узлы Resize и Transform2D. Размер изображения, измененный этим узлом, останется неизменным для последующих узлов.
+    rule_three: В случае составного узла, который принимает два или более изображений в качестве входных значений, размер фонового изображения изменяется на размер нового узла.
   navigation:
-    zoom: Using the mouse wheel, you can zoom in/out the work area.
-    zoom_selected: When the nodes are selected, press the 'F' button or the zoom selected button at the top of the screen to enlarge the selected item. Selecting an Input or Output node in the library also triggers similar zoom effect on input & output node instead of creating it.
-    panning: You can move around the editor area by dragging the right mouse button or the wheel button.
-    preview: You can also browse the preview view in the same way as the editor.
+    zoom: С помощью колесика мыши можно увеличивать/уменьшать масштаб рабочей области.
+    zoom_selected: Когда узлы выбраны, нажмите кнопку 'F' или кнопку zoom в верхней части экрана, чтобы увеличить выбранный элемент. Выбор узла Input или Output в библиотеке также вызывает аналогичный эффект масштабирования узла ввода и вывода вместо его создания.
+    panning: Вы можете перемещаться по области редактора, перетаскивая правую кнопку мыши или кнопку-колесико.
+    preview: Вы также можете просмотреть предварительный просмотр так же, как и в редакторе.
   logics:
-    string: Strings can be input to text nodes, and can also be used as input values such as QR codes.
-    float: Float is a decimal numbers appear as numbers ranging from 0 to 1, and are used for various property values. You can adjust the range of values using the MapFloat node.
-    integer: Integer is a number from 0 to 100, and is mainly used for nodes that take counts as input.
-    corelation: One property value, depending on the design of the node, can be the rotation angle or the brightness of the image, and can affect multiple nodes at the same time.
+    string: Strings можно вводить в текстовые узлы, а также использовать в качестве входных значений, например, QR-кодов.
+    float: Float - это десятичные числа, которые отображаются как числа в диапазоне от 0 до 1 и используются для различных значений свойств. Вы можете настроить диапазон значений с помощью узла MapFloat.
+    integer: Integer - это число от 0 до 100, в основном используется для узлов, которые принимают на вход подсчеты.
+    corelation: Одно значение свойства, в зависимости от конструкции узла, может быть углом поворота или яркостью изображения, и может влиять на несколько узлов одновременно.
